@@ -13,7 +13,7 @@
                     <article style="margin-top:200px" role="article" data-node-lang="de" data-content-lang="de" class="product-bready node-product node-product-full">
                         <div class="product-hero nutInview">
                             <img class="hidden" src="https://www.nutella.com/de/brands/nutella20/themes/custom/nutella20_theme/assets/images/px.png?t=1707463836" data-src="<?= plugin_dir_url(__FILE__) . 'src/img/bready1.png?t=1707463836' ?>">
-                            <img class="hidden" src="https://www.nutella.com/de/brands/nutella20/themes/custom/nutella20_theme/assets/images/px.png?t=1707463836" data-src="<?= plugin_dir_url(__FILE__) . 'src/img/bready1-new.png?t=1707463836' ?>>
+                            <img class="hidden" src="https://www.nutella.com/de/brands/nutella20/themes/custom/nutella20_theme/assets/images/px.png?t=1707463836" data-src="<?= plugin_dir_url(__FILE__) . 'src/img/bready1-new.png?t=1707463836' ?>">
                             <img class=" hidden" src="https://www.nutella.com/de/brands/nutella20/themes/custom/nutella20_theme/assets/images/px.png?t=1707463836" data-src="<?= plugin_dir_url(__FILE__) . 'src/img/bready2.png?t=1707463836' ?>">
                             <div class="container">
                                 <div class="row">
