@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es-US" dir="ltr" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body class="path-node page-node-type-product site-de" style="height:2500px">
+    <div id="body">
+        <div id="scroller">
+            <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+                <div class="nutella-page">
+                    <article style="margin-top:200px" role="article" data-node-lang="de" data-content-lang="de" class="product-bready node-product node-product-full">
+                        <div class="product-hero nutInview">
+                            <img class="hidden" src="https://www.nutella.com/de/brands/nutella20/themes/custom/nutella20_theme/assets/images/px.png?t=1707463836" data-src="<?= plugin_dir_url(__FILE__) . 'src/img/bready1.png?t=1707463836' ?>">
+                            <img class="hidden" src="https://www.nutella.com/de/brands/nutella20/themes/custom/nutella20_theme/assets/images/px.png?t=1707463836" data-src="<?= plugin_dir_url(__FILE__) . 'src/img/bready1-new.png?t=1707463836' ?>>
+                            <img class=" hidden" src="https://www.nutella.com/de/brands/nutella20/themes/custom/nutella20_theme/assets/images/px.png?t=1707463836" data-src="<?= plugin_dir_url(__FILE__) . 'src/img/bready2.png?t=1707463836' ?>">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-5 offset-md-1">
+                                        <div class="top-info">
+                                        </div>
+                                    </div>
+                                    <div class="image_animate bready_animate_1" id="bready_animate_1">
+                                        <div id="holder_1">
+                                            <div class="img lazyload" data-bg="<?= plugin_dir_url(__FILE__) . 'src/img/bready1.png?t=1707463836' ?>" id="sprite_1"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="margin-top: 300px" class="field field-paragraph">
+                            <div class="product-section-intro">
+                                <div class="media-list ">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-10 offset-md-1">
+                                                <div class="swiper-container intro-media-slider">
+                                                    <div class="field multi field-medias">
+                                                        <div class="item">
+                                                            <div style="margin-top:500px">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="product-section-features paragraph default style-red paragraph-product-section product-section--default" id="bready_step_2">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-sx col-sm-4 offset-sm-1 nutInview">
+                                        <div class="image_animate bready_animate_2" id="bready_animate_2">
+                                            <div id="holder_2">
+                                                <div class="img lazyload blur-up" data-bg="<?= plugin_dir_url(__FILE__) . 'src/img/bready2.png?t=1707463836' ?>" id="sprite_2">
+                                                    <button class="tap-here" id="tap-here">
+                                                        <span data-touch="Tab hier" data-notouch="Click me!"></span>
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+</body>
+
+</html>
